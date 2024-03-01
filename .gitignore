@@ -1,0 +1,5 @@
+# Ignore SQL database file
+md_water_services.sql
+
+# Ignore Auditor Report CSV
+Auditor_report.csv
